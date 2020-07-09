@@ -1,0 +1,74 @@
+#R1{
+    width: 1640px;
+    height:146px;
+    background-color: #ffffff;
+    align-self: center;
+    text-align: center;
+    margin: 70px 100px 0px 60px;
+
+}
+.logo{
+	width: 44.4px;
+	height: 50.5px;
+	float: left;
+	margin-left: 20px;
+}
+
+.home{
+	height:20px;
+	font-family: Gobold;
+	font-size: 20px;
+	color: #0d0d0d;
+	text-decoration: none;
+	padding: 15px;
+	
+}
+.journey{
+	text-decoration: underline;
+	
+}
+.gagan{
+	float: right;
+	padding-top: 0px;
+	padding-right: 130px;
+}
+#R2{
+	width: 1600px;
+	height: 500px;
+	background-image: url(bg_pic.png);
+}
+.thejourney{
+	height: 100px;
+	font-family: Gobold;
+	font-size: 100px;
+	line-height: 1.2;
+	color: #ffffff;
+	margin-left: 300px;
+	padding-top: 200px;
+
+}
+
+#R3{
+	width: 1600px;
+	height: 652px;
+	background-image: url(black_first.png);
+	background-size: cover;
+}
+.roots{
+	height: 30px;
+	font-family: Gobold;
+	font-size: 30px;
+	line-height: 1.2;
+	color: #ffffff;
+    padding-top: 50px;
+	margin-left: 60px;
+}
+.content{
+        height: 68px;
+	font-family: ProductSans;
+	font-size: 20px;
+	line-height: 1.2;
+	color: #ffffff;
+	margin-left: 60px;
+} 
+
