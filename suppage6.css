@@ -1,0 +1,108 @@
+.nav{
+	height: 15vh;
+	width: 100vw;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 90px;
+}
+.logo{
+	width: 20vw;
+	display: flex;
+	align-items: center;
+	justify-content: start;
+
+}
+.logos{
+	width: 44.4px;
+	height: 50.5px;
+}
+.home{
+	width:40vw;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	justify-content: space-between;
+}
+.HOME{
+	height: 20px;
+	font-family: Gobold;
+	font-size: 20px;
+	font-weight: 100;
+	line-height: 1.2;
+	color: #0d0d0d;
+	text-decoration: none;
+}
+.gagan{
+	width: 20vw;
+	display: flex;
+    justify-content: flex-end;
+
+}
+.team{
+	text-decoration: underline;
+}
+body{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.text{
+	height: 30px;
+	font-family: ProductSans;
+	font-size: 30px;
+	line-height: 1.2;
+	color: #0d0d0d;
+	padding-bottom: 50px;
+}
+.container{
+	height: 50vh;
+	width: 100vw;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+
+}
+.box{
+	height: 50vh;
+	width: 16vw;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.pics{
+	height: 28vh;
+	width: 16vw;
+	padding-bottom: 20px;
+}
+.zidane{
+      height: 30px;
+	font-family: Gobold;
+	font-size: 30px;
+	line-height: 1.2;
+	color: #0d0d0d;
+}
+.leadership{
+	height: 20px;
+	font-family: ProductSansLight;
+	font-size: 20px;
+	line-height: 1.2;
+	color: #0d0d0d;
+    padding-bottom: 20px;
+}
+.images{
+	width: 7vw;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.you{
+	height: 40px;
+	font-family: ProductSans;
+	font-size: 40px;
+	line-height: 1.2;
+	color: #0d0d0d;
+	margin-top: 30px;
+}
